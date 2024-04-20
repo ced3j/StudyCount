@@ -1,0 +1,24 @@
+.gridContainer {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    
+}
+
+.studyItem {
+    padding: 10px;
+    border: 1px solid #ea5a5a;
+    width: 40%;
+    
+}
+
+.timePadding{
+    padding: 0 10px 0 0;
+}
+
+
+.progressBar {
+    height: 10px;
+    background-color: rgb(88, 83, 235);
+    margin-top: 5px;
+}
